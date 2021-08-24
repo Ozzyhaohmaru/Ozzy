@@ -1,0 +1,7 @@
+com\salestaxes\salesapp\enums\ECategory.class
+com\salestaxes\salesapp\controllers\ProductController.class
+com\salestaxes\salesapp\dtos\SaleDto.class
+com\salestaxes\salesapp\ServletInitializer.class
+com\salestaxes\salesapp\services\ProductService.class
+com\salestaxes\salesapp\dtos\ProductDto.class
+com\salestaxes\salesapp\SalesappApplication.class
