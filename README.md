@@ -2,7 +2,7 @@
 
 #### How to get the project source
 - Git:
-  https://github.com/guiban/ozzy-project.git
+  https://github.com/Ozzyhaohmaru/Ozzy.git
 
 ## Prerequisites
 - JDK 11.0+
